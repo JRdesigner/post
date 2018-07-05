@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tony</title>
+    <link>https://jrdesigner.github.io/post/</link>
+    <description>Recent content on Tony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jrdesigner.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bai viet so 1</title>
+      <link>https://jrdesigner.github.io/post/post/test/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrdesigner.github.io/post/post/test/</guid>
+      <description> Tieu de bai 1  Day la mot bai viet rat quan trong  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jrdesigner.github.io/post/post/bai-mot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrdesigner.github.io/post/post/bai-mot/</guid>
+      <description>title: &amp;ldquo;goc nhin&amp;rdquo; date: 2018-07-05
+tags: [] #h1</description>
+    </item>
+    
+  </channel>
+</rss>
