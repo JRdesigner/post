@@ -3,12 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jrdesigner.github.io/post/post/hai/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jrdesigner.github.io/post/post/test/</loc>
     <lastmod>2018-07-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jrdesigner.github.io/post/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jrdesigner.github.io/post/tags/h%E1%BB%8Dc-ti%E1%BA%BFng-trung/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,19 +37,31 @@
   
   <url>
     <loc>https://jrdesigner.github.io/post/post/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jrdesigner.github.io/post/tags/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jrdesigner.github.io/post/tags/taipei/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jrdesigner.github.io/post/</loc>
-    <lastmod>2018-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jrdesigner.github.io/post/tags/train/</loc>
+    <lastmod>2018-07-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
