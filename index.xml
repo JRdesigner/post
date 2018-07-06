@@ -6,19 +6,10 @@
     <description>Recent content on Tony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jrdesigner.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Lần Đầu Đi Tàu</title>
-      <link>https://jrdesigner.github.io/post/post/hai/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jrdesigner.github.io/post/post/hai/</guid>
-      <description>Hi , các chế! Với những ai đã và đang sống ở Đài Loan thì hẳn là không còn xa lạ gì với phương tiện công cộng phổ biến và tiện lợi này rồi. Cách đây 6 năm, khi mới đặt chân đến đất Đài, với bao bỡ ngỡ, xa lạ. Anh bạn cùng phòng ký túc xá đã lôi đi thăm thú Taipei. Nhớ lại thật vui khi mà nó cũng mới tới trước mình 6 tháng và hai đứa chỉ bập bẹ được tý tiếng trung mà đã xông pha đi chơi.</description>
-    </item>
     
     <item>
       <title>Bai viet so 1</title>
@@ -26,6 +17,15 @@
       <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jrdesigner.github.io/post/post/test/</guid>
+      <description>Tieu de bai 1  Day la mot bai viet rat quan trong  What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
+    </item>
+    
+    <item>
+      <title>Bai viet so 2</title>
+      <link>https://jrdesigner.github.io/post/post/ba/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jrdesigner.github.io/post/post/ba/</guid>
       <description>Tieu de bai 1  Day la mot bai viet rat quan trong  What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</description>
     </item>
     
